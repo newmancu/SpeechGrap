@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+display_notification.service
+notifier/linux_display/deploy/linux_display
+notifier/linux_display/deploy/linux_display.service
+notifier/linux_display/target

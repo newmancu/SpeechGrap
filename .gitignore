@@ -11,5 +11,4 @@ wheels/
 .env
 display_notification.service
 notifier/linux_display/deploy/linux_display
-notifier/linux_display/deploy/linux_display.service
 notifier/linux_display/target
